@@ -156,10 +156,6 @@ function App() {
         </section>
 
         {/* tiny footer */}
-        <footer className="mt-6 text-[11px] text-gray-500 text-center">
-          Demo app • Data from Finnhub • Built with React + TypeScript +
-          Tailwind
-        </footer>
       </div>
     </main>
   );
